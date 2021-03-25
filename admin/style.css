@@ -1,0 +1,42 @@
+body {
+	background-color: #ccc;
+	margin: 0;
+	padding: 0;
+}
+
+.block {
+    width: 600px;
+    background: #fff;
+    margin: 0 auto;
+}
+
+.block .link{
+	padding: 10px;
+	border-bottom: 1px solid #8a8a8a;
+	text-align: center;
+}
+.block .link a {
+    color: #000;
+    text-decoration: none;
+    border: 1px solid #8a8a8a;
+    border-radius: 2px;
+    padding: 2px 5px;
+}
+
+.block .link a:hover {
+	background-color: #8a8a8a;
+}
+
+.block .content {
+	padding: 10px;
+}
+
+.block .content .footercontent {
+	border-top: 1px solid #8a8a8a;
+}
+
+.block .content .footercontent a {
+	text-decoration: underline;
+	color: blue;
+	cursor: pointer;
+}
