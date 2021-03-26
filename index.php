@@ -1,6 +1,6 @@
 <html>
 <head>
-<!--<script type="text/javascript" src="https://calc.jellyweb.ru/js/jquery.js"></script>-->
+<script type="text/javascript" src="https://calc.jellyweb.ru/js/jquery.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script type="text/javascript" src="./admin/js/jquery.js"></script>
 <script type="text/javascript" src="./admin/js/obrphp.js"></script>
